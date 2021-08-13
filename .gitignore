@@ -8,6 +8,7 @@ yarn.lock
 # vscode
 .vscode
 .idea
+/.idea
 # vuepress
 docs/.vuepress/dist
 
