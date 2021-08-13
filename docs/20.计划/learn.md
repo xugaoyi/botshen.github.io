@@ -9,7 +9,7 @@ sticky:
   - 1
 permalink: /pages/8310f8/
 ---
-
+![1002773](https://cdn.jsdelivr.net/gh/botshen/cdn@master/20210813/1002773.58epitlcc340.jpg)
 1. Git
 2. HTML
 3. CSS
