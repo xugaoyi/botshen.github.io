@@ -10,6 +10,15 @@ module.exports = [
     ],
   },
   {
+    text: '技术',
+    link: '/',
+    items: [
+      { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
+      { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
+      { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
+    ],
+  },
+  {
     text: '索引',
     link: '/archives/',
     items: [
