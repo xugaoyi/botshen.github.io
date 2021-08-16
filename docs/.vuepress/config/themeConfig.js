@@ -5,6 +5,7 @@ const htmlModules = require('./htmlModules.js');
 // 主题配置
 module.exports = {
   nav,
+  search: true,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: '/img/logo.jpg', // 导航栏logo
   repo: 'botshen/botshen.github.io', // 导航栏右侧生成Github链接
